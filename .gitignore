@@ -1,0 +1,13 @@
+.awcache
+*.log*
+*.iml
+
+.DS_Store
+.idea/
+.yarn-cache/
+
+coverage/
+dist/
+dll/
+node_modules/
+.vscode/
